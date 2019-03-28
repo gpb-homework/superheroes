@@ -6,7 +6,7 @@
 
 ## Тех. требования:
 - Приложение должно быть сделано c помощью [create-react-app](https://github.com/facebook/create-react-app) и [redux](https://github.com/reduxjs/redux)
-- Приложение должно корректно отображаться в диапазоне 320 - 767px
+- Приложение должно корректно отображаться в диапазоне `320 - 767` px
 - [Макеты](https://www.figma.com/file/H7YKFv5cSLadMJhA58pTywHL/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BB%D1%8F-%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B-%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B0?node-id=0%3A1)
 - Данные для приложения лежат в файле `superheroes.json`
 
